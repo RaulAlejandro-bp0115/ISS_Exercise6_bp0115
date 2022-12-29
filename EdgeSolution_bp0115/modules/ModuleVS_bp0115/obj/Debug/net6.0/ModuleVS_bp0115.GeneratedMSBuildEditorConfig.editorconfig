@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = ModuleVS_bp0115
+build_property.ProjectDir = c:\Users\raulm\OneDrive\Escritorio\Master\Semestre_1\ISS\Parte_2\Sesion_3\IoTEdge_CICD_bp0115\EdgeSolution_bp0115\modules\ModuleVS_bp0115\
