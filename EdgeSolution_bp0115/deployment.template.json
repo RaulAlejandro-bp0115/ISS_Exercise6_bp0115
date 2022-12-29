@@ -11,9 +11,9 @@
             "loggingOptions": "",
             "registryCredentials": {
               "containerregistrybp0115": {
-                "username": "$CONTAINER_REGISTRY_USERNAME_containerregistrybp0115",
-                "password": "$CONTAINER_REGISTRY_PASSWORD_containerregistrybp0115",
-                "address": "containerregistrybp0115.azurecr.io"
+                "username": "${ACR_USER}",
+                "password": "${ACR_PASSWORD}",
+                "address": "${ACR_ADDRESS]"
               }
             }
           }
