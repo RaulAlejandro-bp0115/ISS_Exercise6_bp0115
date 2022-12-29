@@ -2,7 +2,7 @@
     "$schema-version": "0.0.1",
     "description": "",
     "image": {
-        "repository": "containerregistrybp0115.azurecr.io/modulevs_bp0115",
+        "repository": "${ACR_ADDRESS}/modulevs_bp0115",
         "tag": {
             "version": "0.0.1",
             "platforms": {
